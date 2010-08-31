@@ -7,6 +7,9 @@
 
 ## Changelog:
 
+### v.0.9.2 : August 31th, 2010
+* by Dibeja - Folder structure and link references modified
+
 ### v.0.9.1 : August 13th, 2010
 * HTML5 Boilerplate is now in the Public Domain
 * Nginx configuration added
